@@ -73,7 +73,7 @@ l.style_tag        = style{fore = l.colors.light_white        }
 l.style_type       = style{fore = l.colors.light_blue         }
 l.style_variable   = style{fore = l.colors.light_blue         }
 l.style_whitespace = style{                                   }
-l.style_embedded   = l.style_tag..{back = l.colors.light_black}
+l.style_embedded   = {                                        }
 l.style_identifier = l.style_nothing
 
 -- Default styles.
@@ -91,7 +91,7 @@ l.style_default = style{
 }
 l.style_line_number = style{fore = l.colors.dark_grey, back = l.colors.dark_black}
 l.style_bracelight = style{fore = l.colors.white, back = l.colors.pink}
-l.style_bracebad = style{fore = l.colors.light_red}
+l.style_bracebad = style{fore = l.colors.light_blue}
 l.style_controlchar = l.style_nothing
 l.style_indentguide = style{
   fore = l.colors.light_black, back = l.colors.black
