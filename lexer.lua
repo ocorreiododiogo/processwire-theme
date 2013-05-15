@@ -1,4 +1,5 @@
--- "Diogo Dark" editor theme for Textadept.
+-- "ProcessWire" editor theme for Textadept.
+-- Theme for Texadept based on the color of ProcessWire (© 2013 by Ryan Cramer Design, LLC)
 -- Made from Dark theme for Textadept (Copyright 2007-2013 Mitchell mitchell.att.foicica.com. See LICENSE.)
 
 -- Please note this theme is in a separate Lua state than Textadept's main one.
